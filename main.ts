@@ -4,5 +4,5 @@ input.onGesture(Gesture.ThreeG, function () {
     basic.showIcon(IconNames.Diamond)
     basic.showIcon(IconNames.Square)
 })
-radio.setGroup(1)
+radio.setGroup(121)
 basic.showIcon(IconNames.Square)
